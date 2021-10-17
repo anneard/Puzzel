@@ -1,0 +1,24 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": false,
+    "autoStart": false,
+    "lazyLoadTabs": false,
+    "websites": [
+      {
+        "url": "https://app.sharesies.com/portfolio",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://www.google.co.nz/search?q=nzx+atm&sxsrf=AOaemvJcwgtPhAf6xx6spWHWF8tvkafP-A%3A1634512537175&source=hp&ei=ma5sYdaJCOXZz7sP-I6UsAQ&iflsig=ALs-wAMAAAAAYWy8qYwHQ-KyuP_dFn4K-O8falNtWZx_&ved=0ahUKEwiWuqDZydLzAhXl7HMBHXgHBUYQ4dUDCAc&uact=5&oq=nzx+atm&gs_lcp=Cgdnd3Mtd2l6EAMyDAgjECcQnQIQRhD6ATIKCAAQgAQQhwIQFDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQ6gIQJzoHCCMQJxCdAjoECCMQJzoECAAQQzoICAAQgAQQsQNQ4glYoRBg2hRoAXAAeAGAAdcDiAHbDJIBCTAuNS4xLjAuMZgBAKABAbABCg&sclient=gws-wiz",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      },
+
+      {
+        "url": "https://www.google.co.nz/search?q=price+of+ethereum&sxsrf=AOaemvJRIshyX3UHGC8GRGvwDb6a3ENb2Q%3A1634512540225&ei=nK5sYfeVDcif9QPvu4LgBA&oq=price+of+ethereum&gs_lcp=Cgdnd3Mtd2l6EAMYADIJCCMQJxBGEIICMgUIABCRAjILCAAQsQMQgwEQkQIyBQgAEJECMgUIABCRAjIICAAQgAQQsQMyBQgAEIAEMggIABCABBDJAzILCAAQgAQQsQMQgwEyBQgAEIAEOgQIIxAnOgQIABBDOgUIABCxAzoRCC4QgAQQsQMQgwEQxwEQowI6CwguELEDEMcBEKMCOg4ILhCABBCxAxDHARCjAjoLCC4QgAQQsQMQgwE6BAguECc6CgguEMcBENEDEEM6CgguELEDEIMBEEM6EAguELEDEMcBENEDEMkDEEM6BQgAEJIDOgoILhDHARCjAhBDOg0IABCABBCHAhCxAxAUOggIABCxAxCDAUoECEEYAFDCyQJYwdQCYJHcAmgAcAJ4AIABowKIAcULkgEFMC40LjOYAQCgAQHAAQE&sclient=gws-wiz",
+        "duration": 15,
+        "tabReloadIntervalSeconds": 15
+      }
+    ]
+  }

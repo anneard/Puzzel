@@ -14,6 +14,11 @@
         "duration": 10,
         "tabReloadIntervalSeconds": 15
       },
+      {
+        "url": "https://www.stuff.co.nz",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      },
 
       {
         "url": "https://www.google.co.nz/search?q=price+of+ethereum&sxsrf=AOaemvJRIshyX3UHGC8GRGvwDb6a3ENb2Q%3A1634512540225&ei=nK5sYfeVDcif9QPvu4LgBA&oq=price+of+ethereum&gs_lcp=Cgdnd3Mtd2l6EAMYADIJCCMQJxBGEIICMgUIABCRAjILCAAQsQMQgwEQkQIyBQgAEJECMgUIABCRAjIICAAQgAQQsQMyBQgAEIAEMggIABCABBDJAzILCAAQgAQQsQMQgwEyBQgAEIAEOgQIIxAnOgQIABBDOgUIABCxAzoRCC4QgAQQsQMQgwEQxwEQowI6CwguELEDEMcBEKMCOg4ILhCABBCxAxDHARCjAjoLCC4QgAQQsQMQgwE6BAguECc6CgguEMcBENEDEEM6CgguELEDEIMBEEM6EAguELEDEMcBENEDEMkDEEM6BQgAEJIDOgoILhDHARCjAhBDOg0IABCABBCHAhCxAxAUOggIABCxAxCDAUoECEEYAFDCyQJYwdQCYJHcAmgAcAJ4AIABowKIAcULkgEFMC40LjOYAQCgAQHAAQE&sclient=gws-wiz",
